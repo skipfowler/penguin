@@ -1,0 +1,2 @@
+# modplusca
+Modular plugin scaffold
