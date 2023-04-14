@@ -1,2 +1,2 @@
-# modplusca
-Modular plugin scaffold
+# penguin
+Plugin ENtry Generation Unified INterface
