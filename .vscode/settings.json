@@ -1,0 +1,18 @@
+{
+  "cmake.languageSupport.dotnetPath": "dotnet",
+  "C_Cpp.clang_format_path": "clang-format",
+  "C_Cpp.codeAnalysis.clangTidy.path": "clang-tidy",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.path": "clangd",
+  "clangd.checkUpdates": true,
+  "clangd.arguments": [
+    "-log=verbose",
+    "-pretty",
+    "--background-index",
+    "--compile-commands-dir=${workspaceFolder}/build/Debug"
+  ],
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.cppStandard": "c++23"
+}
